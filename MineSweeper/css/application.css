@@ -1,0 +1,17 @@
+body {
+
+    font-family: sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: white;
+    background-color: #212121;
+
+}
+
+.page-div {
+
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}

@@ -1,0 +1,16 @@
+<Context>
+
+    <Resource
+    
+        name = "jdbc/MyConnection"
+        type = "javax.sql.DataSource"
+        maxActive="10"
+        maxIdle="5"
+        username = "root"
+        password = "root"
+        driverClassName = "com.mysql.cj.jdbc.Driver"
+        url = "LocalHost">
+
+    </Resource>
+
+</Context>

@@ -1,0 +1,30 @@
+.btn-ms {
+
+    height: 30px;
+    width: 30px;
+    padding: 0px;
+    display: inline-block;
+    vertical-align: top;
+    /* font-size: 0px; */
+
+}
+
+.span-text {
+
+    /* height: 30px;
+    width: 30px;
+    margin-bottom: -10px; */
+
+}
+
+.btn-hidden {
+
+    font-size: 0px;
+
+}
+
+.btn-mark {
+
+    background-color: red;
+
+}
